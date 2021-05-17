@@ -1,6 +1,6 @@
 ### Eric Zhao
 
-I'm a high school student looking to study computer science. 
+CS @ University of Michigan
 
 Currently working on:
 -   Always-changing [dotfiles](https://github.com/Dophin2009/dotfiles)
