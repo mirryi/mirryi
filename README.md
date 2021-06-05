@@ -1,6 +1,6 @@
 ### Eric Zhao
 
-CS @ University of Michigan
+CSE @ University of Michigan
 
 Currently working on:
 -   Always-changing [dotfiles](https://github.com/Dophin2009/dotfiles)
