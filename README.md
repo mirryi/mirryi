@@ -8,3 +8,5 @@ Currently working on:
 -   [Wikichan](https://github.com/Dophin2009/wikichan), a browser extension and userscript
 -   [shelf](https://github.com/Dophin2009/shelf), a dotfiles package manager
 -   Various other small projects, all the time
+
+[Resumé](https://github.com/Dophin2009/cv/releases/download/latest/cv.pdf)
