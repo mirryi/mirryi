@@ -6,9 +6,9 @@ Currently working on:
 -   [Hazel](https://hazel.org), a live functional programming environment with typed holes
     -   String type, string literals, string operations
     -   WebAssembly compiler!
--   Ever-changing [dotfiles](https://github.com/Dophin2009/dotfiles)
--   [Wikichan](https://github.com/Dophin2009/wikichan), a browser extension and userscript
--   [shelf](https://github.com/Dophin2009/shelf), a dotfiles tool
+-   Ever-changing [dotfiles](https://github.com/mirryi/dotfiles)
+-   [Wikichan](https://github.com/mirryi/wikichan), a browser extension and userscript
+-   [shelf](https://github.com/mirryi/shelf), a dotfiles tool
 -   Various other small projects, all the time
 
-[Resumé](https://github.com/Dophin2009/cv/releases/download/latest/cv.pdf)
+[Resumé](https://github.com/mirryi/cv/releases/download/latest/cv.pdf)
