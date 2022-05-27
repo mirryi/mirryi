@@ -11,4 +11,4 @@ Currently working on:
 -   [shelf](https://github.com/mirryi/shelf), a dotfiles tool
 -   Various other small projects, all the time
 
-[Resumé](https://github.com/mirryi/cv/releases/download/latest/cv.pdf)
+[Resumé](https://github.com/mirryi/resume/releases/download/latest/resume.pdf)
