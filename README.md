@@ -7,4 +7,4 @@ Currently working on:
 -   Ever-changing [dotfiles](https://github.com/mirryi/dotfiles)
 -   Various other small projects, all the time
 
-[Resumé](https://github.com/mirryi/resume/releases/download/latest/resume.pdf)
+[Resumé](https://github.com/mirryi/resume/releases/download/github/resume.pdf)
